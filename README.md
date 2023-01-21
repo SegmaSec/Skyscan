@@ -13,7 +13,7 @@
   cd Skyscan
   pip install -r requirements.txt
 ```
-![Uploading skywin.gif…]()
+![skywin](https://user-images.githubusercontent.com/111459230/213829688-eed87fab-197d-4f60-80c5-a0b339bed808.gif)
 ## :pushpin: Usage :
 ---
 
