@@ -1,7 +1,8 @@
 # SkyScan
 ---
 
-![Skyscan/logo.png](logo.png){:height="30px" width="280px"}.
+![Skyscan/logo.png](logo.png)
+<img src="logo.jpg" alt="mypic" style="width:50px; height:50px"/>
 
 "Introducing Skyscan, the ultimate enumeration scanning tool. With its user-friendly interface and powerful capabilities, skyscan makes it easy to identify vulnerabilities and security weaknesses in your network. Whether you're a professional penetration tester or just looking to secure your own network, skyscan is the perfect tool for the job."
 
