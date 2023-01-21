@@ -8,7 +8,8 @@
 ## :pushpin: Installation :
 ---
 
-```
+``` 
+  sudo apt install nmap
   git clone https://github.com/V3-Sky/Skyscan
   cd Skyscan
   pip install -r requirements.txt
