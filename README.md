@@ -13,12 +13,10 @@
   cd Skyscan
   pip install -r requirements.txt
 ```
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/111459230/213830415-8b0a206a-a8f3-449f-97e7-6e0e01e744c7.gif)
 ## :pushpin: Usage :
 ---
-
 ✔️`` Python3 skyscan.py``
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/111459230/213830415-8b0a206a-a8f3-449f-97e7-6e0e01e744c7.gif)
 ## 📜 Credits :
 ---
 
