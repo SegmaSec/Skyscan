@@ -1,7 +1,7 @@
 # SkyScan
 ---
 
-![Skyscan/logo.png](logo.png)
+![Skyscan/logo.png](logo.png){:height="50px" width="70px"}.
 
 "Introducing Skyscan, the ultimate enumeration scanning tool. With its user-friendly interface and powerful capabilities, skyscan makes it easy to identify vulnerabilities and security weaknesses in your network. Whether you're a professional penetration tester or just looking to secure your own network, skyscan is the perfect tool for the job."
 
@@ -13,7 +13,7 @@
   cd Skyscan
   pip install -r requirements.txt
 ```
-![4p9p4o]https://user-images.githubusercontent.com/111459230/213828076-d3eb7d48-4bd6-45f4-8c47-fb9bef60f440.gif
+https://user-images.githubusercontent.com/111459230/213828076-d3eb7d48-4bd6-45f4-8c47-fb9bef60f440.gif
 ## :pushpin: Usage :
 ---
 
