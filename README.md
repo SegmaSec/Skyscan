@@ -10,7 +10,7 @@
 
 ``` 
   sudo apt install nmap
-  git clone https://github.com/V3-Sky/Skyscan
+  git clone https://github.com/Its-Sn1p3r/Skyscan
   cd Skyscan
   pip install -r requirements.txt
 ```
@@ -22,4 +22,4 @@
 ## 📜 Credits :
 ---
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v3-sky/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmehdi-chbani/)
